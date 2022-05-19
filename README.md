@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Project 3 
+
+E - Commerce
+Using our e-commerce web application, Customers are able to view a wide range of products to purchase. Customers will also be able to search different categories of products. Customers will also be able to add and remove products from their shopping cart as desired. Customers will be able to checkout their order and complete their payment. Sellers will be able to register and sell their products. Customers can able to apply discount coupon codes, add ratings for the products purchased. Customers can pay using their wallet account. Customers can create a support ticket in case of any issues.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
